@@ -1,9 +1,3 @@
-####################################################################################################################
-'''
-You can Read about every single detail in depth on https://rsajal.medium.com
-Link to Github - https://github.com/r-sajal/Ethical-Hacking
-'''
-####################################################################################################################
 
 # important libraries
 import itertools # efficient looping
