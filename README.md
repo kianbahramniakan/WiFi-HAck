@@ -6,4 +6,4 @@ path_to_file: write your passllist.txt adress
 
 
 ## Brute:
-in line 35,36 you can choose your lenght
+in line 29,30 you can choose your lenght
