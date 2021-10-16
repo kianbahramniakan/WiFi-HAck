@@ -1,6 +1,6 @@
 # WiFi-HAck
 
-## Hack Usage:
+## py wifi:
 In the client_ssid Write the name of WiFi wich you want to hack
 path_to_file: write your passllist.txt adress
 
